@@ -1,7 +1,6 @@
 👋 Hi there, @iamharsh00!
-
 👀 I’m interested in exploring various topics like technology, entrepreneurship, and personal development!
-🌱 I’m currently diving deep into learning Python programming and exploring data science concepts.
+🌱 I’m currently diving deep into learning java programming and exploring java applicaion in diffrent fields.
 💞️ I’m open to collaborating on projects related to software development, data analysis, or anything innovative and exciting!
 📫 You can reach me through direct messages here or via email at priyanshu7881@email.com
 😄 Pronouns: He/him
